@@ -1,0 +1,10 @@
+{
+  "app": {
+    "name": "Country Informator",
+    "short_description": "Provides basic information about all countries in the worldd.",
+    "long_description": "Country informator is Zendesk application for showing the most important information for each country. User is able to select country and see information about capital city, area, population, region, official languages, area code and currency.",    "title": "Country Informator"
+  },
+  "default": {
+    "organizations": "organizations"
+  }
+}
